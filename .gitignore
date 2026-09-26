@@ -1,0 +1,22 @@
+# Fichiers système
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+~$*
+
+# Environnement Python
+.venv/
+venv/
+env/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Tests
+test_integration.py
